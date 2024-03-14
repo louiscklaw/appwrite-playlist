@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "gitUpdate": "git add . && git commit -m\"update appwrite-nextjs-demo,\" && git push"
+    "gitUpdate": "git add . && git commit -m\"update appwrite-nextjs-demo,\" && git push",
+    "clean": "rimraf node_modules && rimraf .next"
   },
   "dependencies": {
     "@chakra-ui/icons": "^2.0.11",

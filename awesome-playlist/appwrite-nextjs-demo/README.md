@@ -1,3 +1,8 @@
+```batch
+# on windows 
+> .\scripts\dc_build.bat
+```
+
 # Appwrite NextJS Demo
 
 This is a demo project for [Appwrite](https://appwrite.io) and [NextJS](https://nextjs.org/) integration.
